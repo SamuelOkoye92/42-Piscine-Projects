@@ -4,7 +4,7 @@
 
 # Hint for your exams 
 
-#Don't forget to read the information on notion before the exam date <br/>
+# Don't forget to read the information on notion before the exam date <br/>
 1-Exam login details at the login screen- username: exam, password: exam <br/>
 2-open terminal and type examshell to start the exam <br />
 3-Also open your Visual Studio code. <br/>
@@ -24,18 +24,15 @@ Note: You won't get much help from the wolfpack when you run into trouble in the
  
 Projects:
 
-|C00 
-|C01 
- C02 
- C03 
- C04
- C05 
- C06 
+ C00 <br/>
+ C01 <br/>
+ C02 <br/>
+ C03 <br/>
+ C04 <br/>
+ C05 <br/>
+ C06 <br/>
  
-| Exam01 |  
-| Exam00 | 
-| Exam02 | 
-| Exam03 |  
-| Rush01 |
+  Shell01 <br/>
+  Rush01 <br/>
 
  Have a great Piscine experience!
